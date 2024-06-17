@@ -1,0 +1,1 @@
+console.log("Test Java SCript console")
